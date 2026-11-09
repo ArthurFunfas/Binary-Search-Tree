@@ -1,6 +1,6 @@
 # Binary Search Tree
 
-Implementação de uma **Árvore Binária de Busca (BST)** desenvolvida em Java para fins acadêmicos.
+Implementação de uma **Árvore de Busca Binária (BST)** desenvolvida em Java para fins acadêmicos.
 
 ## Funcionalidades
 
